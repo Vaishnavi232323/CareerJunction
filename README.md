@@ -63,3 +63,8 @@ $ python manage.py runserver
 ![image](https://github.com/jay-arora31/CareerJunction/assets/68243425/a2ebf0b1-f444-454a-a6e0-2c99f94038cd)
 
 ![image](https://github.com/jay-arora31/CareerJunction/assets/68243425/6cd18545-1d4f-4ec2-8a69-1e51f34fe1ae)
+
+
+
+
+
